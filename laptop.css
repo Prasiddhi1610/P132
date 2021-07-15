@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: white;
+}
+
+canvas{
+    border-color: white;
+    border-radius: 15px;
+}
